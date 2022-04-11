@@ -1,0 +1,8 @@
+# ColabGCNdesign
+## ColabGCNdesign_beta
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/naokob/ColabGCNdesign_beta/blob/master/ColabGCNdesign_beta_v0.ipynb)
+
+This notebook is for running Dr. Shintaro Minami's GCNdesign on Google Colaboratory.
+
+# License
+This notebook uses the GCNdesign source code and its parameters licensed under [MIT](https://github.com/ShintaroMinami/GCNdesign/blob/master/LICENSE).
