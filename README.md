@@ -1,5 +1,5 @@
 # ColabGCNdesign
-### ColabGCNdesign_beta_v0.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/naokob/ColabGCNdesign_beta/blob/ColabGCNdesign_beta_v0.ipynb)
+### ColabGCNdesign_beta_v0.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/naokob/ColabGCNdesign_beta/blob/main/ColabGCNdesign_beta_v0.ipynb)
 
 This notebook is for running Dr. Shintaro Minami's GCNdesign on Google Colaboratory.
 
